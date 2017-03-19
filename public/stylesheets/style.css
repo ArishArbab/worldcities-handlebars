@@ -1,0 +1,13 @@
+bootstrap.min.cssbody {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+p.headingFont{
+        font-family: lobster-two, cursive;
+        font-size: 40px;
+}
